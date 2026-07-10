@@ -1,0 +1,319 @@
+{
+  "navbar": {
+    "about": "About",
+    "courses": "Courses",
+    "teachers": "Teachers",
+    "gallery": "Gallery",
+    "testimonials": "Testimonial",
+    "contact": "Contact"
+  },
+
+  "hero": {
+    "badge": "LAVIE'S HOME ENGLISH CENTER",
+
+    "title": {
+      "line1": "Learn English,",
+      "highlight": "Grow with Confidence."
+    },
+
+    "description": "Lavie's Home is an English language center in Go Vap, helping children, teenagers and adults develop their English through Cambridge, IELTS and English Communication courses in a warm, inspiring and student-centered learning environment.",
+
+    "stats": {
+      "students": {
+        "value": 100,
+        "suffix": "+",
+        "label": "Students"
+      },
+      "rating": {
+        "value": 4.9,
+        "suffix": "/5",
+        "label": "Parent Rating"
+      },
+      "experience": {
+        "value": 15,
+        "suffix": "+",
+        "label": "Years of Experience"
+      }
+    }
+  },
+
+  "about": {
+    "badge": "ABOUT US",
+
+    "title": {
+      "line1": "More Than Just",
+      "highlight": "An English Center."
+    },
+
+    "description": "Lavie's Home is an English language center in Go Vap dedicated to creating a warm, inspiring and student-centered learning environment. We believe every learner can grow with confidence through personalized learning paths and the continuous support of passionate teachers."
+  },
+
+  "whyChoose": {
+    "badge": "WHY CHOOSE LAVIE'S HOME",
+
+    "title": {
+      "line1": "Supporting Every Student",
+      "highlight": "on Their English Learning Journey."
+    },
+
+    "description": "Lavie's Home provides a warm learning environment, structured English programs and dedicated teachers to help students develop confidence, communication skills and long-term academic success.",
+
+    "items": [
+      {
+        "title": "Small Class Sizes",
+        "description": "Teachers closely support every learner through personalized guidance and continuous feedback."
+      },
+      {
+        "title": "Passionate Teachers",
+        "description": "Experienced teachers specializing in Cambridge, IELTS and English Communication."
+      },
+      {
+        "title": "Clear Learning Path",
+        "description": "Well-structured courses designed for different ages and learning goals."
+      },
+      {
+        "title": "Inspiring Environment",
+        "description": "Students are encouraged to communicate confidently while enjoying every lesson."
+      }
+    ]
+  },
+
+  "courses": {
+    "badge": "COURSES",
+
+    "title": {
+      "line1": "Find the Perfect",
+      "highlight": "English Course for You"
+    },
+
+    "description": "From Cambridge courses for children and IELTS preparation to English Communication for adults, Lavie's Home offers learning pathways tailored to every student's goals.",
+
+    "button": "Explore Course",
+
+    "items": [
+      {
+        "tag": "Cambridge",
+        "title": "Cambridge English",
+        "description": "A structured Cambridge pathway from Starters to PET, building a strong English foundation.",
+        "type": "Small Class",
+        "age": "6-12 Years"
+      },
+      {
+        "tag": "IELTS",
+        "title": "IELTS Preparation",
+        "description": "Master all four English skills with proven learning strategies to confidently achieve your target IELTS band score.",
+        "type": "Private / Group",
+        "age": "13+"
+      },
+      {
+        "tag": "Speaking",
+        "title": "English Communication",
+        "description": "Develop natural communication skills and confidence in real-life English conversations.",
+        "type": "Speaking",
+        "age": "All Ages"
+      }
+    ]
+  },
+
+  "gallery": {
+    "badge": "CLASSROOM MOMENTS",
+
+    "title": {
+      "line1": "Learning Through",
+      "highlight": "Real Experiences."
+    },
+
+    "description": "Discover memorable moments from our classrooms, activities and special events. Every photo reflects our students' growth, confidence and joy in learning English.",
+
+    "viewImage": "View Image",
+
+    "button": "See More on Facebook",
+
+    "images": [
+      {
+        "alt": "Lavie's Home"
+      },
+      {
+        "alt": "English Communication class"
+      },
+      {
+        "alt": "English Communication class"
+      },
+      {
+        "alt": "Student activities"
+      },
+      {
+        "alt": "Student activities"
+      }
+    ]
+  },
+
+  "teachers": {
+    "section": {
+      "badge": "Our Teachers",
+      "title": {
+        "line1": "Guiding Every Student",
+        "highlight": "with Knowledge and Dedication."
+      },
+      "description": "Every teacher at Lavie's Home creates an inspiring learning environment where students build confidence and develop comprehensive English skills."
+    },
+    "founder": {
+      "badge": "Founder",
+      "name": "Teacher Tom",
+      "role": "Cambridge • IELTS • English Communication",
+      "description": "With more than 15 years of experience teaching English and preparing students for Cambridge examinations, he is dedicated to creating an inspiring learning environment where every learner gains confidence in using English in real-life situations.",
+      "image": "/images/hero-team.png",
+      "profile": "/images/profile-founder.png",
+      "achievements": [
+        "15+ years of teaching experience",
+        "Cambridge & IELTS Specialist",
+        "500+ students mentored",
+        "Active learning methodology"
+      ]
+    },
+    "cards": {
+      "certificate": "Certificate",
+      "experience": "Experience",
+      "specialty": "Specialization"
+    },
+    "buttons": {
+      "contact": "Contact Us",
+      "viewProfile": "View Profile"
+    },
+    "modal": {
+      "close": "Close"
+    },
+    "teachers": [
+      {
+        "id": 1,
+        "name": "Teacher Pha Le",
+        "certificate": "Bachelor's Degree in English",
+        "experience": "3+ Years of Teaching",
+        "specialty": "English Communication",
+        "image": "/images/teacher-phale.png",
+        "profile": "/images/profile-phale.png"
+      },
+      {
+        "id": 2,
+        "name": "Teacher Hoang",
+        "certificate": "Master's Degree in Linguistics",
+        "experience": "5+ Years of Teaching",
+        "specialty": "IELTS Academic",
+        "image": "/images/teacher-hoang.png",
+        "profile": "/images/profile-hoang.png"
+      },
+      {
+        "id": 3,
+        "name": "Teacher Tai",
+        "certificate": "Teaching Certificate",
+        "experience": "5+ Years of Teaching",
+        "specialty": "Cambridge",
+        "image": "/images/teacher-tai.png",
+        "profile": "/images/profile-tai.png"
+      }
+    ]
+  },
+
+  "testimonials": {
+    "section": {
+      "badge": "Testimonials",
+      "title": {
+        "line1": "Parents' Trust",
+        "highlight": "Is Our Greatest Motivation."
+      },
+      "description": "Genuine feedback from parents and students stands as the clearest testament to the quality of education at Lavie's Home."
+    },
+    "stats": [
+      {
+        "iconName": "Users",
+        "number": "100+",
+        "label": "Active Students"
+      },
+      {
+        "iconName": "Star",
+        "number": "4.9/5",
+        "label": "Average Rating"
+      },
+      {
+        "iconName": "Heart",
+        "number": "98%",
+        "label": "Satisfied Parents"
+      }
+    ],
+    "list": [
+      {
+        "name": "Nguyen Thi Hoa",
+        "role": "Cambridge Student's Parent",
+        "avatar": "/images/parents/parent1.png",
+        "review": "My child used to be quite shy when communicating in English. After a few months at Lavie's Home, they became much more confident."
+      },
+      {
+        "name": "Ta Vu Ngoc Hieu",
+        "role": "IELTS Student's Parent",
+        "avatar": "/images/parents/parent2.png",
+        "review": "The teachers are extremely dedicated and regularly update us on our child's progress. The learning path is clear, and the teaching methodology is highly accessible."
+      },
+      {
+        "name": "Vu Vu",
+        "role": "Communication Course Student",
+        "avatar": "/images/parents/parent3.png",
+        "review": "What I love most is the warm, home-like environment. I'm no longer afraid of learning English; instead, I proactively practice every single day."
+      }
+    ]
+  },
+
+  "contact": {
+    "section": {
+      "badge": "Contact Us",
+      "title": {
+        "line1": "Ready to Accompany Your Child",
+        "highlight": "on the Journey to Master English."
+      },
+      "description": "If you are looking for an inspiring, friendly, and high-quality English learning environment, get in touch with Lavie's Home for the most suitable learning path."
+    },
+    "cards": {
+      "address": {
+        "title": "Address",
+        "detail": "129/25 Nguyen Van Nghi,\nHanh Thong Ward,\nHo Chi Minh City"
+      },
+      "phone": {
+        "title": "Hotline"
+      },
+      "email": {
+        "title": "Email"
+      },
+      "workingTime": {
+        "title": "Working Hours",
+        "detail": "Monday - Sunday\n08:00 AM - 08:30 PM"
+      }
+    },
+    "buttons": {
+      "facebook": "Facebook Fanpage"
+    },
+    "note": "We will respond as soon as possible."
+  },
+
+  "footer": {
+    "slogan": "A HOME TO GROW IN ENGLISH",
+    "description": "Lavie's Home provides an inspiring and friendly English learning environment, helping students build confidence in daily communication and international exams.",
+    "titles": {
+      "navigation": "Navigation",
+      "courses": "Courses",
+      "contact": "Contact"
+    },
+    "navigation": [
+      { "title": "About Us", "href": "#about" },
+      { "title": "Courses", "href": "#courses" },
+      { "title": "Teachers", "href": "#teachers" },
+      { "title": "Gallery", "href": "#gallery" },
+      { "title": "Contact", "href": "#contact" }
+    ],
+    "courses": [
+      "Cambridge English",
+      "IELTS Preparation",
+      "English Communication"
+    ],
+    "address": "129/25 Nguyen Van Nghi\nHanh Thong Ward, Ho Chi Minh City",
+    "rights": "Lavie's Home. All rights reserved."
+  }
+}

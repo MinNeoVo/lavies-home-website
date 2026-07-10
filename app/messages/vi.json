@@ -1,0 +1,324 @@
+{
+  "navbar": {
+    "about": "Về chúng tôi",
+    "courses": "Khóa học",
+    "teachers": "Giáo viên",
+    "gallery": "Khoảnh khắc",
+    "testimonials": "Đánh giá",
+    "contact": "Liên hệ"
+  },
+
+  "hero": {
+    "badge": "TRUNG TÂM TIẾNG ANH LAVIE'S HOME",
+
+    "title": {
+      "line1": "Học tiếng Anh,",
+      "highlight": "Tự tin vươn xa."
+    },
+
+    "description": "Lavie's Home là trung tâm tiếng Anh tại Gò Vấp, đồng hành cùng trẻ em, học sinh và người lớn trên hành trình chinh phục tiếng Anh qua các khóa học Cambridge, IELTS và Tiếng Anh giao tiếp trong môi trường học tập thân thiện, gần gũi và truyền cảm hứng.",
+
+    "stats": {
+      "students": {
+        "value": 100,
+        "suffix": "+",
+        "label": "Học viên"
+      },
+      "rating": {
+        "value": 4.9,
+        "suffix": "/5",
+        "label": "Đánh giá từ phụ huynh"
+      },
+      "experience": {
+        "value": 15,
+        "suffix": "+",
+        "label": "Năm kinh nghiệm"
+      }
+    }
+  },
+
+  "about": {
+    "badge": "VỀ CHÚNG TÔI",
+
+    "title": {
+      "line1": "Không chỉ là một",
+      "highlight": "trung tâm tiếng Anh."
+    },
+
+    "description": "Lavie's Home là trung tâm tiếng Anh tại Gò Vấp được xây dựng với mong muốn mang đến một môi trường học tập thân thiện, truyền cảm hứng và lấy học viên làm trung tâm. Chúng tôi tin rằng mỗi học viên đều có thể phát triển toàn diện khi được học trong một không gian tích cực, với lộ trình phù hợp và sự đồng hành tận tâm từ đội ngũ giáo viên."
+  },
+
+  "whyChoose": {
+    "badge": "VÌ SAO CHỌN LAVIE'S HOME",
+
+    "title": {
+      "line1": "Đồng hành cùng học viên",
+      "highlight": "trên hành trình chinh phục tiếng Anh."
+    },
+
+    "description": "Lavie's Home mang đến môi trường học tập thân thiện, chương trình học bài bản và đội ngũ giáo viên tận tâm, giúp học viên phát triển toàn diện kỹ năng tiếng Anh cũng như sự tự tin trong học tập và giao tiếp.",
+
+    "items": [
+      {
+        "title": "Lớp học sĩ số nhỏ",
+        "description": "Giáo viên theo sát từng học viên, hỗ trợ cá nhân hóa để mỗi em đều phát huy tối đa khả năng."
+      },
+      {
+        "title": "Giáo viên tận tâm",
+        "description": "Đội ngũ giáo viên giàu kinh nghiệm trong giảng dạy Cambridge, IELTS và tiếng Anh giao tiếp."
+      },
+      {
+        "title": "Lộ trình học rõ ràng",
+        "description": "Chương trình học được thiết kế theo từng độ tuổi và mục tiêu, giúp học viên tiến bộ vững chắc."
+      },
+      {
+        "title": "Môi trường truyền cảm hứng",
+        "description": "Khuyến khích học viên chủ động giao tiếp, phát triển tư duy và xây dựng niềm yêu thích tiếng Anh."
+      }
+    ]
+  },
+
+  "courses": {
+    "badge": "KHÓA HỌC",
+
+    "title": {
+      "line1": "Khóa học phù hợp",
+      "highlight": "cho mọi mục tiêu học tập"
+    },
+
+    "description": "Từ các khóa học Cambridge dành cho trẻ em, IELTS cho học sinh đến Tiếng Anh giao tiếp cho người đi làm, Lavie's Home xây dựng lộ trình học phù hợp với từng mục tiêu và trình độ.",
+
+    "button": "Tìm hiểu khóa học",
+
+    "items": [
+      {
+        "tag": "Cambridge",
+        "title": "Cambridge English",
+        "description": "Lộ trình Cambridge từ Starters đến PET giúp học viên xây dựng nền tảng tiếng Anh vững chắc.",
+        "type": "Lớp nhỏ",
+        "age": "6-12 tuổi"
+      },
+      {
+        "tag": "IELTS",
+        "title": "IELTS Preparation",
+        "description": "Rèn luyện đầy đủ 4 kỹ năng với chiến lược làm bài hiệu quả để đạt band điểm mong muốn.",
+        "type": "1-1 / Nhóm",
+        "age": "13+"
+      },
+      {
+        "tag": "Speaking",
+        "title": "English Communication",
+        "description": "Phát triển khả năng giao tiếp tự nhiên và phản xạ tiếng Anh trong các tình huống thực tế.",
+        "type": "Speaking",
+        "age": "Mọi lứa tuổi"
+      }
+    ]
+  },
+
+  "gallery": {
+    "badge": "KHOẢNH KHẮC LỚP HỌC",
+
+    "title": {
+      "line1": "Học tập bằng",
+      "highlight": "trải nghiệm thực tế."
+    },
+
+    "description": "Những khoảnh khắc đáng nhớ trong các buổi học, hoạt động và sự kiện tại Lavie's Home. Mỗi bức ảnh ghi lại hành trình học tập và trưởng thành của học viên.",
+
+    "viewImage": "Xem ảnh",
+
+    "button": "Khám phá thêm trên Facebook",
+
+    "images": [
+      {
+        "title": "Lavie's Home",
+        "alt": "Lavie's Home"
+      },
+      {
+        "title": "English Communication",
+        "alt": "English Communication"
+      },
+      {
+        "title": "English Communication",
+        "alt": "Lớp học giao tiếp tiếng Anh"
+      },
+      {
+        "title": "Hoạt động ngoại khóa",
+        "alt": "Học viên tham gia hoạt động"
+      },
+      {
+        "title": "Hoạt động ngoại khóa",
+        "alt": "Hoạt động ngoại khóa"
+      }
+    ]
+  },
+
+  "teachers": {
+    "section": {
+      "badge": "Đội ngũ giáo viên",
+      "title": {
+        "line1": "Đồng hành cùng học viên",
+        "highlight": "bằng kiến thức và sự tận tâm."
+      },
+      "description": "Mỗi giáo viên tại Lavie's Home đều mang đến một môi trường học tích cực, truyền cảm hứng và giúp học viên phát triển toàn diện các kỹ năng tiếng Anh."
+    },
+    "founder": {
+      "badge": "Founder",
+      "name": "Teacher Tom",
+      "role": "Cambridge • IELTS • English Communication",
+      "description": "Với hơn 15 năm kinh nghiệm giảng dạy tiếng Anh và luyện thi Cambridge, thầy luôn hướng đến việc xây dựng một môi trường học tập gần gũi, truyền cảm hứng và giúp học viên phát triển sự tự tin khi sử dụng tiếng Anh trong thực tế.",
+      "image": "/images/hero-team.png",
+      "profile": "/images/profile-founder.png",
+      "achievements": [
+        "15+ năm kinh nghiệm giảng dạy",
+        "Chuyên Cambridge & IELTS",
+        "500+ học viên đồng hành",
+        "Phương pháp học tích cực"
+      ]
+    },
+    "cards": {
+      "certificate": "Chứng chỉ",
+      "experience": "Kinh nghiệm",
+      "specialty": "Chuyên môn"
+    },
+    "buttons": {
+      "contact": "Liên hệ",
+      "viewProfile": "Xem hồ sơ"
+    },
+    "modal": {
+      "close": "Đóng"
+    },
+    "teachers": [
+      {
+        "id": 1,
+        "name": "Teacher Pha Le",
+        "certificate": "Cử nhân Ngôn ngữ Anh",
+        "experience": "3+ năm giảng dạy",
+        "specialty": "Tiếng Anh giao tiếp",
+        "image": "/images/teacher-phale.png",
+        "profile": "/images/profile-phale.png"
+      },
+      {
+        "id": 2,
+        "name": "Teacher Hoang",
+        "certificate": "Thạc sĩ Ngôn ngữ học",
+        "experience": "5+ năm giảng dạy",
+        "specialty": "IELTS Academic",
+        "image": "/images/teacher-hoang.png",
+        "profile": "/images/profile-hoang.png"
+      },
+      {
+        "id": 3,
+        "name": "Teacher Tai",
+        "certificate": "Chứng chỉ Nghiệp vụ Sư phạm",
+        "experience": "5+ năm giảng dạy",
+        "specialty": "Cambridge",
+        "image": "/images/teacher-tai.png",
+        "profile": "/images/profile-tai.png"
+      }
+    ]
+  },
+
+  "testimonials": {
+    "section": {
+      "badge": "Cảm nhận phụ huynh",
+      "title": {
+        "line1": "Niềm tin của phụ huynh",
+        "highlight": "là động lực của chúng tôi."
+      },
+      "description": "Những chia sẻ chân thực từ phụ huynh và học viên chính là minh chứng rõ ràng nhất cho chất lượng giảng dạy tại Lavie's Home."
+    },
+    "stats": [
+      {
+        "iconName": "Users",
+        "number": "100+",
+        "label": "Học viên đồng hành"
+      },
+      {
+        "iconName": "Star",
+        "number": "4.9/5",
+        "label": "Đánh giá trung bình"
+      },
+      {
+        "iconName": "Heart",
+        "number": "98%",
+        "label": "Phụ huynh hài lòng"
+      }
+    ],
+    "list": [
+      {
+        "name": "Nguyễn Thị Hoa",
+        "role": "Phụ huynh học viên Cambridge",
+        "avatar": "/images/parents/parent1.png",
+        "review": "Con mình trước đây khá nhút nhát khi giao tiếp bằng tiếng Anh. Sau vài tháng học tại Lavie's Home, bé tự tin hơn rất nhiều và luôn hào hứng mỗi khi đến lớp."
+      },
+      {
+        "name": "Tạ Vũ Ngọc Hiếu",
+        "role": "Phụ huynh học viên IELTS",
+        "avatar": "/images/parents/parent2.png",
+        "review": "Giáo viên rất tận tâm, thường xuyên cập nhật tình hình học tập của con. Lộ trình học rõ ràng và phương pháp giảng dạy rất dễ tiếp thu."
+      },
+      {
+        "name": "Vũ Vũ",
+        "role": "Học viên khóa Giao tiếp",
+        "avatar": "/images/parents/parent3.png",
+        "review": "Điều mình thích nhất là môi trường học rất gần gũi như ngôi nhà thứ hai. Mình không còn sợ học tiếng Anh mà còn chủ động tập luyện hằng ngày."
+      }
+    ]
+  },
+
+  "contact": {
+    "section": {
+      "badge": "Liên hệ",
+      "title": {
+        "line1": "Sẵn sàng đồng hành cùng con",
+        "highlight": "trên hành trình chinh phục tiếng Anh."
+      },
+      "description": "Nếu bạn đang tìm kiếm một môi trường học tiếng Anh gần gũi, chất lượng và truyền cảm hứng, hãy liên hệ với Lavie's Home để được tư vấn lộ trình phù hợp nhất."
+    },
+    "cards": {
+      "address": {
+        "title": "Địa chỉ",
+        "detail": "129/25 Nguyễn Văn Nghi,\nPhường Hạnh Thông,\nTP. Hồ Chí Minh"
+      },
+      "phone": {
+        "title": "Hotline"
+      },
+      "email": {
+        "title": "Email"
+      },
+      "workingTime": {
+        "title": "Giờ làm việc",
+        "detail": "Thứ 2 - Chủ nhật\n08:00 - 20:30"
+      }
+    },
+    "buttons": {
+      "facebook": "Facebook Fanpage"
+    },
+    "note": "Chúng tôi sẽ phản hồi trong thời gian sớm nhất."
+  },
+
+  "footer": {
+    "slogan": "A HOME TO GROW IN ENGLISH",
+    "description": "Lavie's Home mang đến môi trường học tiếng Anh gần gũi, truyền cảm hứng và giúp học viên phát triển sự tự tin trong giao tiếp cũng như các kỳ thi quốc tế.",
+    "titles": {
+      "navigation": "Điều hướng",
+      "courses": "Khóa học",
+      "contact": "Liên hệ"
+    },
+    "navigation": [
+      { "title": "Về chúng tôi", "href": "#about" },
+      { "title": "Khóa học", "href": "#courses" },
+      { "title": "Giáo viên", "href": "#teachers" },
+      { "title": "Khoảnh khắc lớp học", "href": "#gallery" },
+      { "title": "Liên hệ", "href": "#contact" }
+    ],
+    "courses": [
+      "Cambridge English",
+      "IELTS Preparation",
+      "English Communication"
+    ],
+    "address": "129/25 Nguyễn Văn Nghi\nPhường Hạnh Thông, Hồ Chí Minh",
+    "rights": "Lavie's Home. Tất cả các quyền được bảo lưu."
+  }
+}
