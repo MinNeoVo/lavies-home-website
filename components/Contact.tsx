@@ -58,7 +58,7 @@ export default function ContactSection() {
             className="overflow-hidden rounded-3xl shadow-xl w-full aspect-[4/3] sm:aspect-video lg:aspect-auto lg:h-full min-h-[350px] sm:min-h-[450px] lg:min-h-[550px] bg-gray-100 flex-shrink-0"
           >
             <iframe
-              src="https://maps.google.com/maps?q=129/25%20Nguy%E1%BB%85n%20V%C4%83n%20Nghi,%20Hanh%20Th%C3%B4ng&t=&z=15&ie=UTF8&iwloc=&output=embed"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.8185724439527!2d106.6835232!3d10.8251922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529df7caf60e7%3A0xa23b99fef494ab21!2sENGLISH%20AT%20LAVIE&#39;S%20HOME!5e0!3m2!1svi!2s!4v1783649141231!5m2!1svi!2s"
               width="100%"
               height="100%"
               loading="lazy"
