@@ -320,5 +320,11 @@
     ],
     "address": "129/25 Nguyễn Văn Nghi\nPhường Hạnh Thông, Hồ Chí Minh",
     "rights": "Lavie's Home. Tất cả các quyền được bảo lưu."
+  },
+  "floatingContact": {
+    "messenger": "Nhắn Messenger",
+    "zalo": "Nhắn Zalo",
+    "phone": "Gọi ngay",
+    "phoneNumber": "0355 597 146"
   }
 }

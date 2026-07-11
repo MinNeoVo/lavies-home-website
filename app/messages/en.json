@@ -315,5 +315,11 @@
     ],
     "address": "129/25 Nguyen Van Nghi\nHanh Thong Ward, Ho Chi Minh City",
     "rights": "Lavie's Home. All rights reserved."
+  },
+  "floatingContact": {
+    "messenger": "Message us",
+    "zalo": "Chat on Zalo",
+    "phone": "Call now",
+    "phoneNumber": "+84 355 597 146"
   }
 }

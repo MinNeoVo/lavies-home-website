@@ -9,6 +9,7 @@ import GallerySection from "@/components/Gallery";
 import TestimonialSection from "@/components/Testimonial";
 import ContactSection from "@/components/Contact";
 import Footer from "@/components/Footer";
+import FloatingContact from "@/components/FloatingContact";
 
 import { useEffect } from "react";
 
@@ -44,6 +45,8 @@ export default function Home() {
         <ContactSection />
 
         <Footer />
+
+        <FloatingContact />
       </main>
     </>
   );
