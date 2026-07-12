@@ -34,7 +34,6 @@ export default function ContactSection() {
 
           <div className="w-16 sm:w-20 h-1 bg-primary rounded-full mx-auto mt-4 mb-6 sm:mb-8" />
 
-          {/* 🛠️ RESPONSIVE TEXT: Chỉnh size chữ linh hoạt theo từng màn hình tránh tràn dòng */}
           <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-[1.2] tracking-tight">
             {section.title.line1}
             <br />
@@ -47,7 +46,6 @@ export default function ContactSection() {
         </motion.div>
 
         {/* Content Container */}
-        {/* 🛠️ FIX RESPONSIVE GRID: grid-cols-1 cho mobile, lg:grid-cols-2 cho màn hình máy tính. Gap tự co dãn */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 sm:gap-12 mt-12 sm:mt-16 md:mt-20 items-stretch box-border w-full">
           {/* Google Map */}
           <motion.div

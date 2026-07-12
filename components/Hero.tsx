@@ -8,7 +8,6 @@ import { useLanguage } from "@/context/LanguageContext";
 export default function Hero() {
   const { t } = useLanguage();
 
-  // Đảm bảo không bị lỗi undefined khi chưa đồng bộ xong dữ liệu ngôn ngữ
   if (!t || !t.hero) return null;
 
   return (
@@ -16,13 +15,10 @@ export default function Hero() {
       style={{ colorScheme: "only light" }}
       className="relative w-full max-w-full pt-24 md:pt-28 pb-10 flex items-start overflow-hidden bg-gradient-to-br from-secondary/40 via-white to-white box-border z-10"
     >
-      {/* BACKGROUND GRAPHIC (Trang trí nhẹ góc nền để không bị đơn điệu) */}
       <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-primary/5 rounded-full blur-3xl -z-10 pointer-events-none" />
       <div className="absolute bottom-0 left-0 w-[300px] h-[300px] bg-secondary/60 rounded-full blur-3xl -z-10 pointer-events-none" />
 
-      {/* CONTAINER CHÍNH CHIA 2 CỘT */}
       <div className="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 md:px-8 grid grid-cols-1 md:grid-cols-2 gap-12 lg:gap-16 items-center box-border">
-        {/* ================= CỘT TRÁI: KHỐI CHỮ & THỐNG KÊ ================= */}
         <motion.div
           className="w-full flex flex-col items-start justify-center box-border"
           initial={{ opacity: 0, x: -40 }}
@@ -95,7 +91,6 @@ export default function Hero() {
           </motion.div>
         </motion.div>
 
-        {/* ================= CỘT PHẢI: KHUNG CHỨA ẢNH NGHỆ THUẬT ================= */}
         <motion.div
           className="w-full flex items-center justify-center box-border relative hidden md:flex"
           initial={{ opacity: 0, x: 40 }}

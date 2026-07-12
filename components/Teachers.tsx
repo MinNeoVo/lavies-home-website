@@ -193,7 +193,6 @@ export default function Teachers() {
                   fill
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                   priority={index < 3}
-                  // 🛠️ GIẢI PHÁP: scale-[1.02] mặc định để ảnh tràn nhẹ qua viền bo, khử sạch vệt sọc đen
                   className="absolute inset-0 w-full h-full object-cover object-top scale-[1.02] hover:scale-108 transition-transform duration-500 will-change-transform"
                   style={{
                     objectFit: "cover",

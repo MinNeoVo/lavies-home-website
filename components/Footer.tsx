@@ -15,12 +15,10 @@ interface NavItem {
 export default function Footer() {
   const { t } = useLanguage();
 
-  // Ngăn chặn crash giao diện nếu context chưa kịp tải hoặc thiếu data
   if (!t || !t.footer) {
     return null;
   }
 
-  // Phân tách dữ liệu từ nhánh footer của file JSON
   const { slogan, description, titles, navigation, courses, address, rights } =
     t.footer;
 
